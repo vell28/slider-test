@@ -1,0 +1,30 @@
+.slider-control-wrap {
+    margin-bottom: 20px;
+}
+
+.slider-control-wrap > div {
+    text-align: center;
+}
+
+.dots-control-wrap {
+    margin-bottom: 10px;
+}
+
+.slider-control-wrap button{
+    width: 80px;
+    border: none;
+    border-radius: 2px;
+    padding: 6px 0;
+    font-size: 14px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.slider-control-wrap button.active{
+    background: red;
+    cursor: default;
+}
+
+.mode-control-wrap button{
+    margin: 0 4px;
+}

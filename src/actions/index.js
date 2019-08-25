@@ -1,0 +1,1 @@
+export { SET_SLIDER_CONFIG, setSliderAction } from './slider';
